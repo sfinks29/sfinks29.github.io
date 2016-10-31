@@ -1,0 +1,67 @@
+@font-face {
+	font-family: "RobotoRegular";
+	src: url("/fonts/RobotoRegular/RobotoRegular.eot");
+	src: url("/fonts/RobotoRegular/RobotoRegular.eot?#iefix") format("embedded-opentype"),
+			 url("/fonts/RobotoRegular/RobotoRegular.woff") format("woff"),
+			 url("/fonts/RobotoRegular/RobotoRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "RobotoLight";
+	src: url("/fonts/RobotoLight/RobotoLight.eot");
+	src: url("/fonts/RobotoLight/RobotoLight.eot?#iefix") format("embedded-opentype"),
+			 url("/fonts/RobotoLight/RobotoLight.woff") format("woff"),
+			 url("/fonts/RobotoLight/RobotoLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "RobotoBlack";
+		src: url("/fonts/RobotoBlack/RobotoBlack.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "Roboto-Thin";
+		src: url("/fonts/RobotoThin/Roboto-Thin.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "HammersmithOne";
+		src: url("/fonts/HammersmithOne/HammersmithOne.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "PlayfairDisplayBlack";
+		src: url("/fonts/PlayfairDisplayBlack/PlayfairDisplay-Black.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "PlayfairDisplayBold";
+	src: url("/fonts/PlayfairDisplayBold/PlayfairDisplayBold.eot");
+	src: url("/fonts/PlayfairDisplayBold/PlayfairDisplayBold.eot?#iefix") format("embedded-opentype"),
+			 url("/fonts/PlayfairDisplayBold/PlayfairDisplayBold.woff") format("woff"),
+			 url("/fonts/PlayfairDisplayBold/PlayfairDisplayBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "PlayfairDisplayRegular";
+	src: url("/fonts/PlayfairDisplayRegular/PlayfairDisplayRegular.eot");
+	src: url("/fonts/PlayfairDisplayRegular/PlayfairDisplayRegular.eot?#iefix") format("embedded-opentype"),
+			 url("/fonts/PlayfairDisplayRegular/PlayfairDisplayRegular.woff") format("woff"),
+			 url("/fonts/PlayfairDisplayRegular/PlayfairDisplayRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}

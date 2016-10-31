@@ -1,0 +1,200 @@
+@import "sandwich.css";
+@media only screen and (min-width : 1600px){
+	.bgHeader, .karkas{ width: 1600px; margin: 0 auto;}
+	.bgHeader img{
+		width: 1600px;
+		display: inline-block;
+	  margin: 0 auto;
+	}
+}
+
+@media only screen and (min-width:992px) and (max-width:1200px){
+	.cover-centered{ width: 80%;}
+	.cover-centered h2{ margin-top: 6%;}
+	.cover-centered a.button{margin-top:5%;}
+
+}
+@media only screen and (min-width:768px) and (max-width:991px){
+	.cover-centered{ width: 100%;}
+	.cover-centered h2{ margin-top: 2%;}
+	.cover-centered a.button{margin-top:3%;}
+	.logo{margin-left: 30px;}
+	.owl-pagination{ top: 90%; }
+	.story-wrapper{min-width:100%;}
+	.team-main .pop-text{margin-top:15px;}
+	.client-main{width: 98%;}						
+ .client-logo h2{padding-left:20px;}
+ .client-img-wrap{padding-left:20px;}
+  .content{width: 50%; display: inline-block; position: relative;}
+  .content .logo{left:0; right:0; margin: auto;
+  	 position: absolute; top:-50px;}
+  .content p{text-align: center; margin-top:20px;}
+  .contact{width: 50%; display: inline-block; position:relative; top:-45px;}
+  .contact h3{text-align: center;}
+  .contact p{display:block; width:270px;
+  	 margin:0 auto; position: relative;}
+  .contact span{position: absolute; top:70px; left:0;}
+  .subscribe{float: none; width:306px; margin: 0 auto;}
+  .subscribe h3{text-align: center; margin:25px 0 10px 0;}
+  .image-social a{margin-right:16px;}
+  .footer-second{padding:20px 0 0 0;}
+}
+@media only screen and (min-width:601px) and (max-width:767px){
+.cover-centered p{font-size: 13px;}
+.owl-pagination{top: 90%;}
+.story-wrapper{min-width:100%;}
+.story-wrapper .story-main img{transform:scale(0.8);
+	margin-left: 0; text-align: center;}
+.item-section{width: 50%;}
+.testmonials-main p{text-align:center; margin:0 auto 15px auto; 
+										line-height:1.2; width:90%;}
+
+.client-form{float: none; width: 100%;}	
+.client-form h2{text-align: center;}
+.client-form input[type="submit"]{width:70%; margin: 0 auto;}											
+.client-main{width: 98%;}						
+.client-logo{ float: none; width: 100%; text-align: center;}
+.client-logo h2{padding:0; text-align: center; margin:20px auto 20px auto;}
+.client-img-wrap{padding:0; width:90%; margin: 0 auto;}
+	
+
+ .content{width: 50%; display: inline-block; position: relative;}
+  .content .logo{left:0; right:0; margin: auto;
+  	 position: absolute; top:-50px;}
+  .content p{text-align: center; margin-top:20px;}
+  .contact{width: 50%; display: inline-block; position:relative; top:-45px;}
+  .contact h3{text-align: center;}
+  .contact p{display:block; width:270px;
+  	 margin:0 auto; position: relative;}
+  .contact span{position: absolute; top:70px; left:0;}
+  .subscribe{float: none; width:306px; margin: 0 auto;}
+  .subscribe h3{text-align: center; margin:25px 0 10px 0;}
+  .image-social a{margin-right:16px;}
+  .footer-second{padding:20px 0 0 0;}									
+}
+
+@media only screen and (min-width:481px) and (max-width:600px){
+.cover-centered p{font-size: 13px;}
+.item-section{width: 50%;}
+.testmonials-main p{text-align:center; margin:0 auto 15px auto; 
+										line-height:1.2; width:90%;}	
+.client-main{width: 98%;}
+.client-form{float: none; width: 100%;}	
+.client-form h2{text-align: center;}
+.client-form input[type="submit"]{width:70%; margin: 0 auto;}	
+.client-logo{width: 100%; text-align: center;}													
+.client-logo h2{padding-left:0; text-align: center; margin: 20px 0 20px 0;}	
+.client-img-wrap{padding:0; width:90%; margin: 0 auto;}
+
+.content, .contact, .subscribe{ float: none; width:100%;}
+.content .logo{display: none;}
+.content{display: none;}
+.contact h3{text-align: center; margin: 0 0 10px 0;
+		position:relative; top:-30px;}
+.contact p{display:block; width:270px;
+  	 margin:0 auto; position: relative; top:-30px;}	
+.contact span{position: absolute; top:70px; left:0;}
+.subscribe h3{text-align: center; margin:10px 0 5px 0;}
+.subscribe input{display:inline-block;}
+.input-wrap{width:310px; margin: 0 auto; position: relative;}
+button{float:none; position: absolute;}
+.image-social{width: 230px; margin:20px auto 0 auto; 
+		position:relative; top:-10px;}	
+.image-social a{margin-right:3px;}	
+.footer-second{padding:10px 0 0 0;}
+.footer-second ul, .footer-second .copyright{float: none; width:300px;
+ margin: 0 auto;}
+.footer-second .copyright{text-align: center; padding: 10px 0 0 0;}
+}
+
+@media only screen and (min-width:320px) and (max-width:480px){
+.cover-centered p{font-size: 12px;}
+.cover-centered h2{font-size: 15px!important;}
+.item-section{width: 100%;}
+.expertise-main .line-separate{ margin: 20px auto 0px auto;}
+.testmonials-main p{text-align:center; margin:0 auto 15px auto; 
+										 width:97%;}
+.client-main{width: 98%;}
+.client-form{float: none; width: 100%;}	
+.client-form h2{text-align: center;}
+.client-form input[type="submit"]{width:70%; margin: 0 auto;}	
+.client-logo{width: 100%; text-align: center;}													
+.client-logo h2{padding-left:0; text-align: center; margin: 20px 0 0 0;}	
+.client-img-wrap {padding:0; width:90%; margin: 0 auto;}
+
+.content .logo{display: none;}
+.content{display: none;}
+.contact{width: 100%;}
+.contact h3{text-align: center; margin: 0 0 10px 0;
+		position:relative; top:-30px;}
+.contact p{display:block; width:270px;
+  	 margin:0 auto; position: relative; top:-30px;}	
+.contact span{position: absolute; top:70px; left:0;}
+.subscribe{width:100%;}
+.subscribe h3{text-align: center; margin:10px 0 5px 0;}
+.subscribe input{display:inline-block;}
+.input-wrap{width:310px; margin: 0 auto; position: relative;}
+button{float:none; position: absolute;}
+.image-social{width: 230px; margin:20px auto 0 auto; 
+		position:relative; top:-10px;}	
+.image-social a{margin-right:3px;}	
+.footer-second{padding:10px 0 0 0;}	
+.footer-second{padding:10px 0 0 0;}
+.footer-second ul, .footer-second .copyright{float: none; width:300px;
+ margin: 0 auto;}
+.footer-second .copyright{text-align: center; padding: 10px 0 0 0;}									 
+}
+
+@media only screen and (min-width:320px) and (max-width:767px){
+	ul.menu{display: none;}
+	.cover-centered .sandwich{display: block;}
+	.cover-centered .submenu-title{display: block;}
+	.cover-centered{ width: 100%;}
+	.cover-centered h2{ margin-top: 2%; font-size: 20px; text-align: center;}
+	.cover-centered a.button{margin-top:3%;}
+	.logo{margin-left: 30px;}
+	.team-main .pop-text{margin-top:15px;}
+}
+
+
+@media only screen and (min-width:992px) and (max-width:1600px){
+	.story-wrapper, .expertise-main,
+  .team-main, .main-work,
+  .testmonials-main, .client-main, 
+  .footer-main{width:944px; margin: 0 auto;}
+  .main-work{padding:30px 0;}
+  .wrap-work .button{margin: 30px auto 30px auto;}
+  .works-image{margin-top:90px;}
+}
+
+@media only screen and (min-width:320px) and (max-width:992px){
+	.bgHeader .menu{ margin-right: 10px;}
+	.story-main .button{padding:5px 20px;}
+	.vyrovneno-centr{padding: 20px 0;}
+	.story-content p{margin-bottom: 10px; padding-right:5px;}	
+	.video-wrapper{height:350px;}
+	.video-main h2{margin:50px auto 0 auto;}
+	.expertise-main{width:98%;}
+	.team-main{width:98%;}
+	.main-work{padding:10px 0; width:98%;}
+  .works-image{margin-top:50px;}
+  .wrap-work .button{margin: 5px auto 10px auto;
+  						width:200px;}
+  .testmonials-main{width:98%; padding-top:30px;}
+  .footer-main{width:98%;}
+	.content p{text-align: left; padding: 0 20px;}
+}
+
+@media only screen and (min-width:320px) and (max-width:600px){
+	.story-content, .story-image{width:100%;}
+	.story-wrapper{width: 100%;}
+	.story-image img{margin-left:0; display:block;
+		width:86px; height:86px; position: absolute; top:-5px; right:30px;}
+	.story-content h2{margin:20px;}
+	.story-content p{padding: 0 5px 0 10px;}
+}
+
+@media only screen and (min-width:0px) and (max-width:600px){
+#gallery1{display: none;}
+
+}
